@@ -24,8 +24,8 @@
 
 <!-- ![JahangirCodes's github stats](https://github-readme-stats.vercel.app/api?username=JahangirCode&count_private=true&theme=tokyonight&hide=contribs,prs) -->
 
-<a href="https://github.com/JahangirCode/JahangirCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JahangirCode&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="JahangirCode's GitHub Stats" />
+<a href="https://github.com/codewithjahangir/codewithjahangir">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithjahangir&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="codwwithjahangir's GitHub Stats" />
 </a>
 
 <!-- <a href="https://github.com/JahangirCode/JahangirCode">
@@ -35,4 +35,4 @@
 
 ## ❤ Views and Followers
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JahangirCode.JahangirCode) <a href="https://github.com/JahangirCode?tab=followers"><img src="https://img.shields.io/github/followers/JahangirCode?label=Followers&style=social" alt="GitHub Badge"></a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=codewithjahangir.codewithjahangir) <a href="https://github.com/codewithjahangir?tab=followers"><img src="https://img.shields.io/github/followers/codewithjahangir?label=Followers&style=social" alt="GitHub Badge"></a>
